@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+
+ <niveles>
+  <nivel nombre="level1" tamx="18" tamy="30"> 
+  	<persona y="0" x="2" tipo="II" />
+  	<persona y="0" x="3" tipo="H" />
+  	<persona y="0" x="4" tipo="H" />
+  	<persona y="0" x="5" tipo="H" />
+  	<persona y="0" x="6" tipo="TN" />
+  	<persona y="0" x="7" tipo="H" />
+  	<persona y="0" x="8" tipo="H" />
+  	<persona y="0" x="9" tipo="H" />
+  	<persona y="0" x="10" tipo="H" />
+  	<persona y="0" x="11" tipo="H" />
+  	<persona y="0" x="12" tipo="H" />
+  	<persona y="0" x="13" tipo="H" />
+  	<persona y="0" x="14" tipo="H" />
+  	<persona y="0" x="15" tipo="H" />
+  	<persona y="0" x="16" tipo="H" />
+  	
+  	<persona y="1" x="2" tipo="V" />
+  	<persona y="1" x="6" tipo="V" />
+  	<persona y="1" x="16" tipo="INI" />
+  	
+  	<persona y="2" x="0" tipo="II" />
+  	<persona y="2" x="1" tipo="H" />
+  	<persona y="2" x="2" tipo="SD" />
+  	<persona y="2" x="4" tipo="V" />
+  	<persona y="2" x="6" tipo="V" />
+  	<persona y="2" x="8" tipo="II" />
+  	<persona y="2" x="9" tipo="H" />
+  	<persona y="2" x="10" tipo="H" />
+  	<persona y="2" x="11" tipo="H" />
+  	<persona y="2" x="12" tipo="H" />
+  	<persona y="2" x="13" tipo="H" />
+  	<persona y="2" x="14" tipo="H" />
+  	<persona y="2" x="15" tipo="H" />
+  	<persona y="2" x="16" tipo="ID" />
+  	
+  	<persona y="3" x="0" tipo="V" />
+  	<persona y="3" x="4" tipo="V" />
+  	<persona y="3" x="6" tipo="V" />
+  	<persona y="3" x="7" tipo="MIST" />
+  	<persona y="3" x="8" tipo="V" />
+  	<persona y="3" x="16" tipo="V" />
+  	
+  	<persona y="4" x="0" tipo="V" />
+  	<persona y="4" x="2" tipo="H" />
+  	<persona y="4" x="3" tipo="H" />
+  	<persona y="4" x="4" tipo="TI" />
+  	<persona y="4" x="6" tipo="V" />
+  	<persona y="4" x="8" tipo="V" />
+  	<persona y="4" x="10" tipo="H" />
+  	<persona y="4" x="11" tipo="H" />
+  	<persona y="4" x="12" tipo="H" />
+  	<persona y="4" x="13" tipo="H" />
+  	<persona y="4" x="14" tipo="ID" />
+  	<persona y="4" x="16" tipo="V" />
+  	
+  	<persona y="5" x="0" tipo="V" />
+  	<persona y="5" x="4" tipo="V" />
+  	<persona y="5" x="6" tipo="V" />
+  	<persona y="5" x="8" tipo="V" />
+  	<persona y="5" x="14" tipo="TD" />
+  	<persona y="5" x="15" tipo="H" />
+  	<persona y="5" x="16" tipo="SD" />
+  	
+  	<persona y="6" x="0" tipo="SI" />
+  	<persona y="6" x="1" tipo="H" />
+  	<persona y="6" x="2" tipo="ID" />
+  	<persona y="6" x="4" tipo="V" />
+  	<persona y="6" x="6" tipo="V" />
+  	<persona y="6" x="8" tipo="V" />
+  	<persona y="6" x="10" tipo="H" />
+  	<persona y="6" x="11" tipo="H" />
+  	<persona y="6" x="12" tipo="ID" />
+  	<persona y="6" x="14" tipo="V" />
+  	
+  	<persona y="7" x="2" tipo="V" />
+  	<persona y="7" x="4" tipo="V" />
+  	<persona y="7" x="8" tipo="V" />
+  	<persona y="7" x="12" tipo="V" />
+  	<persona y="7" x="14" tipo="V" />
+  	
+  	<persona y="8" x="0" tipo="II" />
+  	<persona y="8" x="1" tipo="H" />
+  	<persona y="8" x="2" tipo="TI" />
+  	<persona y="8" x="4" tipo="TD" />
+  	<persona y="8" x="5" tipo="H" />
+  	<persona y="8" x="6" tipo="H" />
+  	<persona y="8" x="7" tipo="H" />
+  	<persona y="8" x="8" tipo="SD" />
+  	<persona y="8" x="10" tipo="H" />
+  	<persona y="8" x="11" tipo="H" />
+  	<persona y="8" x="12" tipo="TI" />
+  	<persona y="8" x="14" tipo="V" />
+  	
+  	<persona y="9" x="0" tipo="V" />
+  	<persona y="9" x="2" tipo="V" />
+  	<persona y="9" x="4" tipo="V" />
+  	<persona y="9" x="12" tipo="V" />
+  	<persona y="9" x="14" tipo="V" />
+  	
+  	<persona y="10" x="0" tipo="V" />
+  	<persona y="10" x="2" tipo="V" />
+  	<persona y="10" x="4" tipo="V" />
+  	<persona y="10" x="6" tipo="II" />
+  	<persona y="10" x="7" tipo="H" />
+  	<persona y="10" x="8" tipo="H" />
+  	<persona y="10" x="9" tipo="H" />
+  	<persona y="10" x="10" tipo="H" />
+  	<persona y="10" x="11" tipo="H" />
+  	<persona y="10" x="12" tipo="C" />
+  	<persona y="10" x="13" tipo="H" />
+  	<persona y="10" x="14" tipo="SD" />
+  	
+  	<persona y="11" x="0" tipo="V" />
+  	<persona y="11" x="4" tipo="V" />
+  	<persona y="11" x="6" tipo="V" />
+  	<persona y="11" x="12" tipo="V" />
+  	<persona y="11" x="14" tipo="FIN" />
+  	
+  	<persona y="12" x="0" tipo="V" />
+  	<persona y="12" x="2" tipo="H" />
+  	<persona y="12" x="3" tipo="H" />
+  	<persona y="12" x="4" tipo="TI" />
+  	<persona y="12" x="6" tipo="V" />
+  	<persona y="12" x="8" tipo="II" />
+  	<persona y="12" x="9" tipo="H" />
+  	<persona y="12" x="10" tipo="H" />
+  	<persona y="12" x="12" tipo="V" />
+  	<persona y="12" x="14" tipo="V" />
+  	
+  	<persona y="13" x="0" tipo="V" />
+  	<persona y="13" x="1" tipo="MIST" />
+  	<persona y="13" x="4" tipo="V" />
+  	<persona y="13" x="6" tipo="V" />
+  	<persona y="13" x="8" tipo="V" />
+  	<persona y="13" x="12" tipo="V" />
+  	<persona y="13" x="13" tipo="MIST" />
+  	<persona y="13" x="14" tipo="V" />
+  	
+  	<persona y="14" x="0" tipo="V" />
+  	<persona y="14" x="2" tipo="V" />
+  	<persona y="14" x="4" tipo="V" />
+  	<persona y="14" x="6" tipo="V" />
+  	<persona y="14" x="8" tipo="TD" />
+  	<persona y="14" x="9" tipo="H" />
+  	<persona y="14" x="10" tipo="H" />
+  	<persona y="14" x="11" tipo="H" />
+  	<persona y="14" x="12" tipo="SD" />
+  	<persona y="14" x="14" tipo="V" />
+  	
+  	<persona y="15" x="0" tipo="V" />
+  	<persona y="15" x="2" tipo="V" />
+  	<persona y="15" x="4" tipo="V" />
+  	<persona y="15" x="6" tipo="V" />
+  	<persona y="15" x="8" tipo="V" />
+  	<persona y="15" x="14" tipo="V" />
+  	
+  	<persona y="16" x="0" tipo="V" />
+  	<persona y="16" x="2" tipo="SI" />
+  	<persona y="16" x="3" tipo="H" />
+  	<persona y="16" x="4" tipo="SD" />
+  	<persona y="16" x="6" tipo="V" />
+  	<persona y="16" x="8" tipo="V" />
+  	<persona y="16" x="10" tipo="H" />
+  	<persona y="16" x="11" tipo="H" />
+  	<persona y="16" x="12" tipo="H" />
+  	<persona y="16" x="13" tipo="H" />
+  	<persona y="16" x="14" tipo="TI" />
+  	
+  	<persona y="17" x="0" tipo="V" />
+  	<persona y="17" x="6" tipo="V" />
+  	<persona y="17" x="8" tipo="V" />
+  	<persona y="17" x="14" tipo="V" />
+  	
+  	<persona y="18" x="0" tipo="SI" />
+  	<persona y="18" x="1" tipo="H" />
+  	<persona y="18" x="2" tipo="ID" />
+  	<persona y="18" x="4" tipo="II" />
+  	<persona y="18" x="5" tipo="H" />
+  	<persona y="18" x="6" tipo="SD" />
+  	<persona y="18" x="8" tipo="SI" />
+  	<persona y="18" x="9" tipo="H" />
+  	<persona y="18" x="10" tipo="H" />
+  	<persona y="18" x="11" tipo="H" />
+  	<persona y="18" x="12" tipo="ID" />
+  	<persona y="18" x="14" tipo="V" />
+  	
+  	<persona y="19" x="2" tipo="V" />
+  	<persona y="19" x="4" tipo="V" />
+  	<persona y="19" x="12" tipo="V" />
+  	<persona y="19" x="14" tipo="V" />
+  	
+  	<persona y="20" x="2" tipo="V" />
+  	<persona y="20" x="4" tipo="V" />
+  	<persona y="20" x="6" tipo="H" />
+  	<persona y="20" x="7" tipo="H" />
+  	<persona y="20" x="8" tipo="H" />
+  	<persona y="20" x="9" tipo="H" />
+  	<persona y="20" x="10" tipo="ID" />
+  	<persona y="20" x="12" tipo="V" />
+  	<persona y="20" x="14" tipo="V" />
+  	
+  	<persona y="21" x="2" tipo="V" />
+  	<persona y="21" x="4" tipo="V" />
+  	<persona y="21" x="7" tipo="MIST" />
+  	<persona y="21" x="10" tipo="V" />
+  	<persona y="21" x="12" tipo="V" />
+  	<persona y="21" x="14" tipo="V" />
+  	
+  	<persona y="22" x="2" tipo="V" />
+  	<persona y="22" x="4" tipo="SI" />
+  	<persona y="22" x="5" tipo="H" />
+  	<persona y="22" x="6" tipo="H" />
+  	<persona y="22" x="7" tipo="H" />
+  	<persona y="22" x="8" tipo="ID" />
+  	<persona y="22" x="10" tipo="V" />
+  	<persona y="22" x="12" tipo="V" />
+  	<persona y="22" x="14" tipo="V" />
+  	
+  	<persona y="23" x="2" tipo="V" />
+  	<persona y="23" x="8" tipo="V" />
+  	<persona y="23" x="10" tipo="V" />
+  	<persona y="23" x="14" tipo="V" />
+  	
+  	<persona y="24" x="2" tipo="SI" />
+  	<persona y="24" x="3" tipo="H" />
+  	<persona y="24" x="4" tipo="ID" />
+  	<persona y="24" x="6" tipo="II" />
+  	<persona y="24" x="7" tipo="H" />
+  	<persona y="24" x="8" tipo="SD" />
+  	<persona y="24" x="10" tipo="V" />
+  	<persona y="24" x="12" tipo="II" />
+  	<persona y="24" x="13" tipo="H" />
+  	<persona y="24" x="14" tipo="SD" />
+  	
+  	<persona y="25" x="4" tipo="V" />
+  	<persona y="25" x="6" tipo="V" />
+  	<persona y="25" x="10" tipo="V" />
+  	<persona y="25" x="12" tipo="V" />
+  	
+  	<persona y="26" x="4" tipo="V" />
+  	<persona y="26" x="6" tipo="V" />
+  	<persona y="26" x="8" tipo="II" />
+  	<persona y="26" x="9" tipo="H" />
+  	<persona y="26" x="10" tipo="TS" />
+  	<persona y="26" x="11" tipo="H" />
+  	<persona y="26" x="12" tipo="SD" />
+  	
+  	<persona y="27" x="4" tipo="V" />
+  	<persona y="27" x="8" tipo="V" />
+  	
+  	<persona y="28" x="4" tipo="SI" />
+  	<persona y="28" x="5" tipo="H" />
+  	<persona y="28" x="6" tipo="H" />
+  	<persona y="28" x="7" tipo="H" />
+  	<persona y="28" x="8" tipo="SD" />
+  	
+  </nivel>
+</niveles>
